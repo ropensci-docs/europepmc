@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  evergreenreviewgraphs: evergreenreviewgraphs.html
+  introducing-europepmc: introducing-europepmc.html
+last_built: 2021-07-09T18:15Z
+urls:
+  reference: https://docs.ropensci.org/europepmc/reference
+  article: https://docs.ropensci.org/europepmc/articles
+

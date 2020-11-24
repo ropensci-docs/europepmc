@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d5704e087b2b829af481b86931acc00d42fd2404",
+    "author": "Najko Jahn <najko.jahn@gmail.com>",
+    "time": "2020-11-24 12:06:55",
+    "files": 6,
+    "merge": false,
+    "message": "use github actions\n"
+  },
+  "remote": "https://github.com/ropensci/europepmc",
+  "pkg": "europepmc"
+}
