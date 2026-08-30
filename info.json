@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "86ccdfc262965d0d46ba0349a744208cc228b4f1",
+    "author": "Najko Jahn <najko.jahn@gmail.com>",
+    "time": "2023-11-20T11:34:38Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #55 from allenbaron/fix_ftxt\n\nUpdate empc_ftxt() to indicate 1 input limit"
+  },
+  "repo": "https://github.com/ropensci/europepmc",
+  "pkg": "europepmc",
+  "time": "2026-08-30T07:19:23Z"
+}
